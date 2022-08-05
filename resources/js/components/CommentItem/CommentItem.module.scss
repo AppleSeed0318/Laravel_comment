@@ -1,0 +1,31 @@
+.comment{
+    margin: 10px;
+    padding: 1rem;
+    border-radius: 16px;
+    background-color: rgb(15, 23, 36);
+    color: white;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.reply{
+    text-align: right;
+    a{
+        background-color: rgb(17, 236, 229);
+        border-radius: 6px;
+        padding: 0.8rem 1.25rem;
+        cursor: pointer;
+        text-decoration: none;
+    }
+}
+
+.parent{
+    a{
+        color: white;
+    }
+    
+}
